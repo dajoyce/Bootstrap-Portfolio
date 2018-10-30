@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 34px;
+    color: #777777;
+}
+
+* {
+    box-sizing: border-box;
+  }
+  /*Navbar Coding Starts Here*/
+
+  .navbar {
+   border-bottom: 2px solid #cccccc;
+  }
+
+  #logo {
+    float: left;
+    width: 250px;
+    height: 90px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 90px;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    background: #4aaaa5;
+    margin-left: 60px;
+  }
+
+  #variousLinks {
+    float: right;
+    margin-top: 25px;
+    margin-left: 400px;
+    font-size: 20px;
+  }
+
+  /*Footer Coding Starts Here*/
+
+  footer {
+    padding: 30px 0;
+    clear: both;
+    font-size: 12px;
+    color: #ffffff;
+    color: #cccccc;
+    text-align: center;
+    background: #666666;
+    border-top: 8px solid #4aaaa5;
+    height: 50px;
+  }
+
+
+  
