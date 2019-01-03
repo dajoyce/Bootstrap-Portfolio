@@ -1,26 +1,28 @@
 .picBio {
-    float: left;
-    width: 200px;
-    height: auto;
-    margin-top: 10px;
-    margin-right: 25px;
+  float: left;
+  width: 200px;
+  height: auto;
+  margin-top: 10px;
+  margin-right: 25px;
 }
 
 #aboutMe {
-    color: #4aaaa5; 
-    margin-top: 30px;
-    border-bottom: 2px solid #cccccc;
+  color: #4aaaa5;
+  margin-top: 30px;
+  border-bottom: 2px solid #cccccc;
 }
 
 .container {
-    float: left;
-    width: 100%;
-    max-width: 960px;
-    padding: 30px;
-    margin: 0 0 40px;
-    background: #ffffff;
-    border: 1px solid #dddddd;
-    font-size: 18px;
-    line-height: 2;
-    margin-top: 40px;  
+  float: left;
+  width: 100%;
+  max-width: 960px;
+  padding: 30px;
+  margin-left: 200px;
+  margin-right: 200px;
+  background: #f8f9fa;
+  border: 1px solid #dddddd;
+  font-size: 18px;
+  line-height: 2;
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
