@@ -62,3 +62,73 @@ footer {
   border-top: 8px solid #2a7fd4 !important;
   height: 50px;
 }
+
+/* @media screen and (max-width: 980px) {
+  body {
+    background-color: blue;
+  }
+
+  #navbar navbar-light bg-light,
+  #container {
+    width: 100%;
+  }
+
+  #container {
+    margin-top: 30px;
+  }
+} */
+
+/*@768px*/
+/* @media screen and (max-width: 768px) {
+  body {
+    background-color: #333;
+  }
+  #masthead {
+    position: static;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  #logo {
+    position: sticky;
+  }
+  #main-container {
+    padding-top: 30px;
+  }
+
+  #masthead,
+  #container {
+    width: 100%;
+  }
+
+  footer {
+    margin-top: 400px;
+  }
+} */
+
+/*640px*/
+
+/* @media screen and (max-width: 640px) {
+  body {
+    background-color: greenyellow;
+  }
+
+  #masthead {
+    position: static;
+    padding: 20px;
+    margin-top: 20px;
+  }
+
+  #masthead,
+  #container {
+    width: 100%;
+  }
+
+  nav {
+    float: left;
+    margin-top: 7px;
+  }
+
+  footer {
+    margin-top: 400px;
+  }
+} */
